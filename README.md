@@ -2,6 +2,9 @@ k# 💼 LurkForWork - Job Network Frontend
 
 A vanilla JavaScript frontend for a mock social job networking platform, similar to LinkedIn. Built for COMP6080 course assignment.
 
+## This is an initial version of LurkForWork.
+More features and polish coming soon!
+
 ## ✨ Features
 
 - 🔐 User Authentication (Login / Register)
@@ -43,5 +46,12 @@ A vanilla JavaScript frontend for a mock social job networking platform, similar
 git clone https://github.com/YOUR_USERNAME/lurkforwork.git
 cd lurkforwork
 
-## This is an initial version of LurkForWork.
-More features and polish coming soon!
+2. Start the backend (not provided)
+cd ass3-backend
+npm install
+npm start
+Backend runs at: http://localhost:5005
+
+3. Start the frontend
+npx http-server -c 1 -p 3000
+Frontend will run at: http://localhost:3000
