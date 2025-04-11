@@ -40,8 +40,6 @@ More features and polish coming soon!
 
 
 ## 🚀 How to Run
-
-1. Clone the repository:
 ```bash
 git clone https://github.com/YOUR_USERNAME/lurkforwork.git
 cd lurkforwork
