@@ -32,6 +32,9 @@ A vanilla JavaScript frontend for a mock social job networking platform, similar
 
 | Feed Page | Profile Page |
 
+## Demo
+![330106a2ee9b2c30fd4ceb7501462c3](https://github.com/user-attachments/assets/0edba703-268a-4789-8b55-749f8841cc72)
+
 
 ## 🚀 How to Run
 
