@@ -1,4 +1,4 @@
-k# 💼 LurkForWork - Job Network Frontend
+# 💼 LurkForWork - Job Network Frontend
 
 A vanilla JavaScript frontend for a mock social job networking platform, similar to LinkedIn. Built for COMP6080 course assignment.
 
