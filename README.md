@@ -31,8 +31,7 @@ A vanilla JavaScript frontend for a mock social job networking platform, similar
 ## 🖼️ Screenshots
 
 | Feed Page | Profile Page |
-|-----------|--------------|
-| ![feed](./assets/feed.png) | ![profile](./assets/profile.png) |
+
 
 ## 🚀 How to Run
 
@@ -40,3 +39,6 @@ A vanilla JavaScript frontend for a mock social job networking platform, similar
 ```bash
 git clone https://github.com/YOUR_USERNAME/lurkforwork.git
 cd lurkforwork
+
+## This is an initial version of LurkForWork.
+More features and polish coming soon!
